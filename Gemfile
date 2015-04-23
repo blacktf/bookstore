@@ -4,6 +4,7 @@ gem 'bootstrap-sass', '~> 3.3.3'
 gem 'autoprefixer-rails'
 gem 'kaminari'
 gem 'kaminari-bootstrap', '~> 3.0.1'
+gem 'powerpack'
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '4.2.0'
 # Use sqlite3 as the database for Active Record
