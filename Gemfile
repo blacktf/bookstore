@@ -1,5 +1,5 @@
-source 'https://rubygems.org'
-#source 'http://production.cf.rubygems.org'
+#source 'https://rubygems.org'
+source 'http://production.cf.rubygems.org'
 gem 'bootstrap-sass', '~> 3.3.3'
 gem 'autoprefixer-rails'
 gem 'kaminari'
